@@ -73,9 +73,7 @@ class RestaurantDetailPage extends StatelessWidget {
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
-            // =========================
             // HERO IMAGE
-            // =========================
             SizedBox(
               width: double.infinity,
               height: 230,
